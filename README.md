@@ -36,3 +36,5 @@ Este repositorio también me sirve como bitácora de aprendizaje.
 4. Subir la rama
 5. Abrir pull request
 6. Revisar y fusionar
+
+Estoy aprendiendo GitHub con enfoque profesional.
