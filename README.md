@@ -11,3 +11,11 @@ Este cambio fue hecho desde mi computadora local.
 - Trabajo con ramas
 - Commits y push
 - Pull requests
+
+## Buenas prácticas que estoy aprendiendo
+
+- Hacer commits claros
+- Trabajar con ramas
+- Revisar el historial
+
+Este repositorio también me sirve como bitácora de aprendizaje.
