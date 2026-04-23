@@ -27,3 +27,12 @@ Este repositorio también me sirve como bitácora de aprendizaje.
 - git commit
 - git log
 - git diff
+
+## Flujo de trabajo en GitHub
+
+1. Crear una rama
+2. Hacer cambios
+3. Crear commits
+4. Subir la rama
+5. Abrir pull request
+6. Revisar y fusionar
