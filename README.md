@@ -19,3 +19,11 @@ Este cambio fue hecho desde mi computadora local.
 - Revisar el historial
 
 Este repositorio también me sirve como bitácora de aprendizaje.
+
+## Herramientas que ya practiqué
+
+- git status
+- git add
+- git commit
+- git log
+- git diff
