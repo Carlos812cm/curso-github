@@ -1,47 +1,32 @@
-# Curso GitHub
+# curso-github
 
-Este es mi primer repositorio en GitHub.
-Aquí voy a practicar repositorios, ramas, commits y pull requests.
+Repositorio de práctica para aprender Git y GitHub de forma progresiva y profesional.
 
-Este cambio fue hecho desde mi computadora local.
+## Objetivo
+Practicar flujo de trabajo con ramas, commits, pull requests, resolución de conflictos y colaboración.
 
-## Lo que estoy aprendiendo
+## Tecnologías
+- Git
+- GitHub
+- VS Code
 
-- Uso de repositorios
+## Contenido
+- Fundamentos de repositorios
 - Trabajo con ramas
-- Commits y push
+- Commits y diff
 - Pull requests
+- Merge conflicts
+- Forks
+- Integración con VS Code
 
-## Buenas prácticas que estoy aprendiendo
+## Cómo usar este repositorio
+1. Clona el repositorio
+2. Abre la carpeta en VS Code
+3. Revisa el README y el historial de commits
+4. Practica en ramas nuevas
 
-- Hacer commits claros
-- Trabajar con ramas
-- Revisar el historial
+## Estado
+En aprendizaje activo
 
-Este repositorio también me sirve como bitácora de aprendizaje.
-
-## Herramientas que ya practiqué
-
-- git status
-- git add
-- git commit
-- git log
-- git diff
-
-## Flujo de trabajo en GitHub
-
-1. Crear una rama
-2. Hacer cambios
-3. Crear commits
-4. Subir la rama
-5. Abrir pull request
-6. Revisar y fusionar
-
-Estoy aprendiendo GitHub con práctica intensiva y ordenada.
-
-## Trabajo con VS Code
-
-- Revisar cambios en Source Control
-- Hacer stage visualmente
-- Crear commits con contexto
-- Sincronizar con GitHub
+## Autor
+Carlos
