@@ -38,3 +38,10 @@ Este repositorio también me sirve como bitácora de aprendizaje.
 6. Revisar y fusionar
 
 Estoy aprendiendo GitHub con práctica intensiva y ordenada.
+
+## Trabajo con VS Code
+
+- Revisar cambios en Source Control
+- Hacer stage visualmente
+- Crear commits con contexto
+- Sincronizar con GitHub
