@@ -29,4 +29,4 @@ Practicar flujo de trabajo con ramas, commits, pull requests, resolución de con
 En aprendizaje activo
 
 ## Autor
-Carlos
+Carlos Martinez
